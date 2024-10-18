@@ -1,4 +1,4 @@
-# Smart Posture
+# Deep Learning LSMT Modelgit
 
 The project is to predict how much out temperature is using LSMT algorithm , so the target will be to predict output temperature.
 
